@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "646aaaa36949952db85ec91a"
+  },
+  "title": "4-Day Beijing Private Tour",
+  "city": "BeiJing",
+  "address": "Somewhere in China",
+  "distance": 300,
+  "photo": "/tour-images/tour-img10.jpg",
+  "desc": "section of the Great Wall",
+  "price": 499,
+  "maxGroupSize": 10,
+  "reviews": [],
+  "featured": true,
+  "createdAt": {
+    "$date": "2023-05-21T23:34:59.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-22T00:01:07.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe462505c"
+  },
+  "title": "4-Day Shanghai, Hagzhonu, and Nanxun Water Town Culture Tour",
+  "city": "Shanghai",
+  "address": "Somewhere in China",
+  "distance": 500,
+  "price": 799,
+  "maxGroupSize": 8,
+  "desc": "economic engines of Eastern Chin",
+  "reviews": [],
+  "photo": "/tour-images/tour-img05.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe462505e"
+  },
+  "title": "3-Day South Korea Tour",
+  "city": "South Korea",
+  "address": "Somewhere in Korea",
+  "distance": 500,
+  "price": 399,
+  "maxGroupSize": 8,
+  "desc": "In-depth Cultural tour",
+  "reviews": [],
+  "photo": "/tour-images/tour-img07.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe4625058"
+  },
+  "title": "3-Days Seoul Searching ",
+  "city": "Seoul",
+  "address": "Somewhere in Korea",
+  "distance": 300,
+  "price": 799,
+  "maxGroupSize": 10,
+  "desc": "taking you through Seoul",
+  "reviews": [
+    {
+      "$oid": "646c2e52ac06fa83924576b7"
+    }
+  ],
+  "photo": "/tour-images/tour-img01.jpg",
+  "featured": true,
+  "updatedAt": {
+    "$date": "2023-05-23T03:09:06.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe4625059"
+  },
+  "title": "4-Days Cayo Largo del Sur",
+  "city": "Cayo",
+  "address": "Somewhere in Cuba",
+  "distance": 400,
+  "price": 699,
+  "maxGroupSize": 8,
+  "desc": "with sugar-white beaches and unparalleled dive sites.",
+  "reviews": [
+    {
+      "$oid": "646d0dc6338ca37b9f7cdb75"
+    }
+  ],
+  "photo": "/tour-images/tour-img02.jpg",
+  "featured": true,
+  "updatedAt": {
+    "$date": "2023-05-23T19:02:31.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe462505b"
+  },
+  "title": "4-Days Jardínes del Rey",
+  "city": "Jardines del rey",
+  "address": "Somewhere in Cuba",
+  "distance": 500,
+  "price": 599,
+  "maxGroupSize": 8,
+  "desc": "The islands are part of Cuba’s northern coral reef, which yields spectacular snorkeling and diving.",
+  "reviews": [],
+  "photo": "/tour-images/tour-img04.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe462505a"
+  },
+  "title": "5 Days Snowy Mountains, Thailand",
+  "city": "Bangkok",
+  "address": "Somewhere in Thailand",
+  "distance": 500,
+  "price": 599,
+  "maxGroupSize": 8,
+  "desc": "this is the description",
+  "reviews": [],
+  "photo": "/tour-images/tour-img03.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "646ab3fbd7b0f75fe462505d"
+  },
+  "title": "5 Days Cherry Blossoms Spring",
+  "city": "Tokyo",
+  "address": "Somewhere in Japan",
+  "distance": 500,
+  "price": 399,
+  "maxGroupSize": 8,
+  "desc": "this is the description",
+  "reviews": [],
+  "photo": "/tour-images/tour-img06.jpg",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "646ab43ed7b0f75fe4625078"
+  },
+  "title": "4 Days Chittagong",
+  "city": "Chittagong",
+  "address": "Somewhere in Chittagong",
+  "distance": 500,
+  "price": 899,
+  "maxGroupSize": 8,
+  "desc": "this is the description",
+  "reviews": [],
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+}]
